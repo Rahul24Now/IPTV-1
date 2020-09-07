@@ -2,7 +2,6 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangladeshi by Meraj CS 鉂わ笍",Sangsad TV 
 https://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 ,Anando TV
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/16.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi by Meraj CS 鉂わ笍",Asian TV
 https://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
